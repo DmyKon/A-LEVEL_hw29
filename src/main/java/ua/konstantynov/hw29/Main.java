@@ -5,6 +5,11 @@
 //Manage buying albums
 //Manage users
 //Manage orderings
+
+//Please adopt your local Hibernate application to be cloud-ready,
+//deploy it to Heroku and share access to your app with me.
+//Please implement an application which is able to calculate trigonometric functions
+//(sin, cos, tan, ctg, arcsin, arccos) using SOLID.
 package ua.konstantynov.hw29;
 
 import ua.konstantynov.hw29.entities.Customer;
