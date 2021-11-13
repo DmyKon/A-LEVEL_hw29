@@ -1,2 +1,1 @@
-# A-LEVEL_hw29 Heroku
-https://www.youtube.com/watch?v=S--86SVoVhg&t=291s
+Please adopt your local Hibernate application to be cloud-ready, deploy it to Heroku and share access to your app with me
