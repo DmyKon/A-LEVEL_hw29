@@ -1,0 +1,1 @@
+bash: java -jar target/ALEVEL_hw29-1.0-SNAPSHOT.jar
